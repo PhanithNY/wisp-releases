@@ -4,7 +4,7 @@ A free, native system monitor for macOS 26 and later.
 
 ## Release status
 
-The first signed and notarized release is being prepared. There is no public download yet.
+[Download Wisp.dmg](https://github.com/PhanithNY/wisp-releases/releases/latest/download/Wisp.dmg).
 This repository hosts compiled releases and release notes. App source code is maintained separately.
 
 ## Features
@@ -18,9 +18,9 @@ Sensor and process coverage varies by Mac and macOS version. Missing readings ar
 
 ## Installation
 
-Once the first release is published, download `Wisp.dmg` from [Releases](https://github.com/PhanithNY/wisp-releases/releases), open it, and drag Wisp to Applications.
+Download `Wisp.dmg` from [Releases](https://github.com/PhanithNY/wisp-releases/releases), open it, and drag Wisp to Applications.
 
-Homebrew installation will be available through [PhanithNY/homebrew-tap](https://github.com/PhanithNY/homebrew-tap) after that release.
+Install with Homebrew: `brew install --cask PhanithNY/tap/wisp`.
 
 Wisp requires macOS 26 or later. Release packages are built for Apple silicon and Intel.
 
