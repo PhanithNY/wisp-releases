@@ -11,6 +11,7 @@ This repository hosts compiled releases and release notes. App source code is ma
 
 - System CPU, memory, network activity and storage capacity.
 - A menu bar dashboard and local CPU/memory history.
+- Optional Dock icon: turn off **Show Dock icon** in Settings → Appearance to keep it hidden, including while windows are open. The preference is remembered after relaunch.
 - Per-app activity and hardware readings where macOS and the hardware permit access.
 - No accounts, advertising, telemetry or monitoring data uploads.
 
@@ -28,6 +29,7 @@ Wisp requires macOS 26 or later. Release packages are built for Apple silicon an
 
 Wisp continues monitoring in the menu bar when you close its window or use ordinary Quit.
 Choose **Wisp → Quit Wisp Completely** to exit before replacing or removing the app.
+When the Dock icon is hidden, use the menu bar panel's power button to quit completely.
 Launch at login is optional and off by default. Updates are installed manually or through Homebrew.
 
 ## Support and privacy
