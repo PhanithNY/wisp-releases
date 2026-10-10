@@ -30,7 +30,7 @@ Wisp requires macOS 26 or later. Release packages are built for Apple silicon an
 Wisp continues monitoring in the menu bar when you close its window or use ordinary Quit.
 Choose **Wisp → Quit Wisp Completely** to exit before replacing or removing the app.
 When the Dock icon is hidden, use the menu bar panel's power button to quit completely.
-Launch at login is optional and off by default. Updates are installed manually or through Homebrew.
+Launch at login is optional and off by default. Updater-enabled versions provide **Wisp → Check for Updates…** and **Settings → Updates**. Daily background checks are on by default and can be disabled in Settings; you choose when to download, install and restart. Versions without the updater must first be upgraded manually or through Homebrew.
 
 ## Support and privacy
 
