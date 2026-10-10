@@ -1,10 +1,14 @@
 # Wisp privacy policy
 
-Last updated: October 4, 2026
+Last updated: October 10, 2026
 
 ## Monitoring stays on your Mac
 
-Wisp reads available system activity to display resource usage. It makes no network requests, has no user account, and includes no advertising, tracking, or third-party analytics SDKs. Wisp does not transmit monitoring data to its developer or other parties.
+Wisp reads available system activity to display resource usage. It has no user account and includes no advertising, tracking, or third-party analytics SDKs. Wisp does not transmit monitoring data to its developer or other parties.
+
+## Software updates
+
+The direct-download edition uses Sparkle to check for software updates on GitHub when you choose Check for Updates, or approximately once per day while Wisp is running unless you disable daily checks in Settings. Daily checks are on by default; a saved choice to disable them is preserved. Updates are downloaded and installed only after you choose to proceed. These requests include standard connection information such as your IP address and an application/version user agent; system profiling is disabled. Monitoring data, app names and saved history are never included. Update preferences are stored locally. GitHub and its download infrastructure process requests under their own privacy policies.
 
 ## Local history
 
